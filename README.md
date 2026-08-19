@@ -35,7 +35,3 @@ Lee niveles por CAN Bus (Pin 6 y 14): gasolina, temperatura, aceite, servicio. T
 - **ESP32:** Cerebro Q777 hecho en Luchanas.
 - **MCP2515 + TJA1050:** Traductor CAN Bus para autos nuevos y viejos.
 - **Relé NC:** Normalmente Cerrado. Si falla el módulo, tu auto SÍ prende. No te deja tirado.
-
-### 📦 Repo Estructura
-# clasicos-
-quantum-QP-Lagarto-DEMO/├── README.md├── hardware/│   ├── diagrama_Q777_Lagarto.png│   └── lista_compras_Steren.txt├── firmware/│   ├── Q777_Lagarto_Base.ino│   └── Q777_Lagarto_GPS.ino└── docs/    └── ficha_venta_billetudo.pdf
