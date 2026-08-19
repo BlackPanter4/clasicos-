@@ -1,3 +1,4 @@
+![PAGANI Q777 EL LAGARTO REVIVED ZZ](doc/pagani_lagarto_q777.jpg)
 # Q777 - EL LAGARTO | Kit de Control de Encendido e Inyección
 ### Tecnología Desarrollada en México x quantum- | Luchanas, Coahuila
 
