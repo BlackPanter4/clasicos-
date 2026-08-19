@@ -1,2 +1,8 @@
-KIT Q777 - $535 MXN
-ESP32 + LM317 + MCP2515 + Rele 30A + NEO-6M GPS
+ NEO-6M GPSKIT Q777 LAGARTO COMANDANTE - $535 MXN
+- ESP32 DevKit v1 x1
+- LM317 x1 + Disipador + R 240ohm + 720ohm
+- MCP2515 Modulo CAN Bus x1
+- Rele 5V 30A NC (Normalmente Cerrado) x1
+- NEO-6M GPS con antena x1
+- Buzzer 5V x1
+- Cables Dupont + PCB perforada
