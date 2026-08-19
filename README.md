@@ -35,3 +35,4 @@ Lee niveles por CAN Bus (Pin 6 y 14): gasolina, temperatura, aceite, servicio. T
 - **ESP32:** Cerebro Q777 hecho en Luchanas.
 - **MCP2515 + TJA1050:** Traductor CAN Bus para autos nuevos y viejos.
 - **Relé NC:** Normalmente Cerrado. Si falla el módulo, tu auto SÍ prende. No te deja tirado.
+
